@@ -1,0 +1,14 @@
+name: extremeSparsification
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pytorch
+  - scipy
+  - scikit-learn
+  - sympy
+  - scikit-image
+
+
+

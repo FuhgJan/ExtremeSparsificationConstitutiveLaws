@@ -15,7 +15,6 @@ The complete repository can be cloned and installed locally. It is recommended t
 
 ```
 $ git clone https://github.com/FuhgJan/ExtremeSparsificationConstitutiveLaws.git
-$ cd DCRM
 $ conda env create -f environment.yml
 $ conda activate extremeSparsification 
 $ python -m pip install . --user
